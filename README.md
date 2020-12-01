@@ -11,7 +11,7 @@
 
 #### 如何使用此脚本
 
-**本仓库下载：[docker-installer.sh](http://gitlab.philogag.com/philogag/MyDockers/raw/master/Scripts/docker-installer.sh)**
+**本仓库下载：[docker-installer.sh](https://raw.githubusercontent.com/Philogag/OneKey-Docker-Install-bash/main/docker-installer.sh)**
 
 ```bash
 #!/bin/sh
